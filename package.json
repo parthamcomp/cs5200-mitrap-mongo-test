@@ -1,0 +1,15 @@
+{
+  "name": "cs5200-fall2019-mitrap-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parthasarathi Mitra",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.11",
+    "node.js": "0.0.0"
+  }
+}
